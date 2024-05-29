@@ -83,6 +83,14 @@ Um exemplo de uso da aplicação pode ser visto abaixo, com a classificação de
 
 ![image](https://github.com/Lihsayuri/CompVisionProject/assets/62647438/226f18a3-945a-42b6-9b72-05a37ec02822)
 
+## Para rodar localmente
+
+Para rodar a aplicação localmente, basta:
+
+- Entrar na pasta APP/frontend
+- Executar o comando: `npm install` para que todas as dependências sejam baixadas.
+- Depois executar o comando `npm start` e esperar que o link com "localhost" abra na web. 
+
 ## Vídeos :movie_camera:
 
 - Vídeo que mostra o funcionamento da aplicação: https://youtu.be/P4vQVyHImwU :white_check_mark:                      
