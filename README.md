@@ -78,7 +78,7 @@ Um exemplo de uso da aplicação pode ser visto abaixo, com a classificação de
 
 ## Vídeos :movie_camera:
 
-- Vídeo que mostra o funcionamento da aplicação: :white_check_mark:                      
+- Vídeo que mostra o funcionamento da aplicação: https://youtu.be/P4vQVyHImwU :white_check_mark:                      
 - Vídeo que mostra o deploy/atualização do modelo: https://www.youtube.com/watch?v=PcT29DIJ28w :white_check_mark:
 
 ## Link do deploy da aplicação web:
