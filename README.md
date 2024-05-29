@@ -1,5 +1,12 @@
 # CompVisionProject: Artistic Vision
 
+## Tecnologias Utilizadas
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Web Development](https://img.shields.io/badge/Web%20Development-007ACC?style=for-the-badge&logo=web-development&logoColor=white)
+![Última Atualização](https://badgen.net/github/last-commit/Lihsayuri/CompVisionArtProject)
+
 ### Feito por :sassy_man: :sassy_man: :sassy_woman:
 
 - Fabricio Neri Lima.
