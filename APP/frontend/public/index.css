@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .App {
+    text-align: center;
+  }
+  
+  input[type='file'] {
+    display: none;
+  }
+  
+  img {
+    margin-top: 20px;
+  }
+  

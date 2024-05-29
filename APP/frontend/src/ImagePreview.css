@@ -1,0 +1,39 @@
+
+   .image-preview-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .image-preview {
+    width: 300px; /* Defina a largura desejada para a imagem */
+    height: 300px; /* Defina a altura desejada para a imagem */
+    overflow: hidden; /* Impede que a imagem se expanda além das dimensões especificadas */
+    position: relative; /* Posição relativa para posicionamento do botão de trocar imagem */
+  }
+  
+  .uploaded-image {
+    width: 100%; /* Garante que a imagem preencha completamente o contêiner */
+    height: 100%; /* Garante que a imagem preencha completamente o contêiner */
+    object-fit: cover; /* Redimensiona e corta a imagem para preencher o contêiner */
+    border-radius: 8px;
+  }
+  
+  .change-image-button {
+    position: absolute; /* Posiciona o botão sobre a imagem */
+    bottom: 10px; /* Ajusta a distância do botão em relação ao fundo */
+    left: 50%; /* Alinha o botão ao centro horizontal */
+    transform: translateX(-50%); /* Centraliza o botão horizontalmente */
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .change-image-button:hover {
+    background-color: #0056b3;
+  }
+  
